@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-To add me to your groups, [click here!](http://telegram.me/TheRealPhoenixBot?startgroup=botstart)
+To add me to your groups, [click here!](http://telegram.me/MissNeko_Bot?startgroup=botstart)
 
 You can find the list of available commands with /help
 """
@@ -46,7 +46,7 @@ And the following:
 
 DONATE_STRING = """{0} doesn't currently need any donations.
 However you can donate to the creator of the original source code which {0} \
-is based on:- [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen).""".format(dispatcher.bot.first_name)
+is based on:- [PayPal](paypal.me/GodYuu), or [Monzo](monzo.me/GodYuu).""".format(dispatcher.bot.first_name)
 
 IMPORTED = {}
 MIGRATEABLE = []
